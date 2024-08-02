@@ -1,0 +1,8 @@
+.contaner{
+    width:25%;
+    height: 100vh;
+    background-color: aqua;
+    position: relative;
+    bottom: 80px;
+    border-top-right-radius: 80px;
+}

@@ -1,0 +1,11 @@
+.contaner {
+    width: 80%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 20%;
+    bottom: -10%;
+    background-color: #FD7272;
+}
